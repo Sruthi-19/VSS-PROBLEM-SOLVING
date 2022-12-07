@@ -10,4 +10,12 @@ function starPattern1(given_value) {
 console.log(starPattern1(4));
 
 
-
+function starPattern2(given_value) {
+    let str = "*";
+    for (let i = given_value; i >= 1; i--) {
+        let result_string=str.repeat(i);
+        console.log(result_string);
+    }
+    
+  }
+console.log(starPattern2(5));
