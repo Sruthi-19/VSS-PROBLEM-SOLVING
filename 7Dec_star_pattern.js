@@ -1,3 +1,4 @@
+//TRY 1
 function starPattern1(given_value) {
   for (let i = given_value; i >= 1; i--) {
     let str = "";
@@ -9,7 +10,7 @@ function starPattern1(given_value) {
 }
 console.log(starPattern1(4));
 
-
+//TRY 2
 function starPattern2(given_value) {
     let str = "*";
     for (let i = given_value; i >= 1; i--) {
