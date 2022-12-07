@@ -18,16 +18,6 @@ function starPattern2(given_value) {
     console.log(result_string);
   }
 }
-// console.log(starPattern2(5));
+console.log(starPattern2(5));
 
-//TRY 3
-// function starPattern3(given_value) {
-//   let str = "*";
-//   let result_string="";
-//   for (let i = given_value; i >= 1; i--) {
-//     result_string = str.repeat(i);
-//     result_string=result_string+"\n"; 
-//   }
-//   console.log(result_string);
-// }
-// console.log(starPattern3(5));
+
