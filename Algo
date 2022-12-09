@@ -1,0 +1,7 @@
+Create a function that takes in array as an argument.
+In the function:
+  Create three arrays for storing 0's 1's and 2's.
+  Loop through the given array.
+  If it is 0 push it to the corresponding 0's array.
+  Similarly follow the step for 1's and 2's.
+  Concat the 0's 1's and 2's array to form the result array
