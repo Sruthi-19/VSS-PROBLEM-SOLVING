@@ -20,5 +20,5 @@ function starPattern2(given_value) {
 }
 console.log(starPattern2(5));
 
-//COMPLETE
+//COMPLETED
 
