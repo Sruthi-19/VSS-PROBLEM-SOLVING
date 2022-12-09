@@ -20,5 +20,8 @@ function starPattern2(given_value) {
 }
 console.log(starPattern2(5));
 
+<<<<<<< HEAD
 //COMPLETED
+=======
+>>>>>>> 693de01fe1917be72e350484147c030b9ab3c88f
 
